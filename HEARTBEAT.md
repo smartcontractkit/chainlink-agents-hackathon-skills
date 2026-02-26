@@ -11,7 +11,7 @@ Scan section 0 first on every fetch — it contains urgent updates.
 
 ## 0. Announcements & Errata
 
-No announcements at this time.
+The [chainlink-agent-skills](https://github.com/smartcontractkit/chainlink-agent-skills/tree/main/cre-skills) repo has an updated v0.2 of the cre-skills skill.
 
 ---
 
